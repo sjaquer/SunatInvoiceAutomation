@@ -1,0 +1,163 @@
+2025-05-12 17:32:39,534 - gui - INFO - GUI initialized
+2025-05-12 18:03:47,709 - gui - INFO - GUI initialized
+2025-05-12 18:05:07,027 - gui - INFO - Starting invoice processing...
+2025-05-12 18:05:07,027 - gui - INFO - Using Excel file: C:/Users/Sebastián Jaque/Downloads/invoice_template_1.xlsx
+2025-05-12 18:05:07,029 - gui - INFO - Output directory: C:/Users/Sebastián Jaque/Downloads
+2025-05-12 18:05:07,030 - gui - INFO - Cargando archivo Excel...
+2025-05-12 18:05:07,173 - excel_reader - INFO - Successfully processed 1 invoices from C:/Users/Sebastián Jaque/Downloads/invoice_template_1.xlsx
+2025-05-12 18:05:07,174 - gui - INFO - Iniciando automatización SUNAT...
+2025-05-12 18:05:07,175 - WDM - INFO - ====== WebDriver manager ======
+2025-05-12 18:05:07,669 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-12 18:05:07,889 - WDM - INFO - About to download new driver from https://chromedriver.storage.googleapis.com/114.0.5735.90/chromedriver_win32.zip
+2025-05-12 18:05:08,125 - WDM - INFO - Driver downloading response is 200
+2025-05-12 18:05:08,712 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-12 18:05:09,130 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-12 18:05:09,481 - WDM - INFO - Driver has been saved in cache [C:\Users\Sebastián Jaque\.wdm\drivers\chromedriver\win64\114.0.5735.90]
+2025-05-12 18:05:09,483 - gui - ERROR - Error en procesamiento: 'str' object has no attribute 'capabilities'
+2025-05-12 18:08:54,155 - gui - INFO - GUI initialized
+2025-05-12 18:09:30,700 - gui - INFO - Starting invoice processing...
+2025-05-12 18:09:30,700 - gui - INFO - Using Excel file: C:/Users/Sebastián Jaque/Downloads/test/invoice_template_1.xlsx
+2025-05-12 18:09:30,700 - gui - INFO - Output directory: C:/Users/Sebastián Jaque/Downloads/test
+2025-05-12 18:09:30,701 - gui - INFO - Cargando archivo Excel...
+2025-05-12 18:09:30,834 - excel_reader - INFO - Successfully processed 1 invoices from C:/Users/Sebastián Jaque/Downloads/test/invoice_template_1.xlsx
+2025-05-12 18:09:30,835 - gui - INFO - Iniciando automatización SUNAT...
+2025-05-12 18:09:30,836 - sunat_automation - INFO - Iniciando configuración del WebDriver...
+2025-05-12 18:09:30,836 - WDM - INFO - ====== WebDriver manager ======
+2025-05-12 18:09:31,386 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-12 18:09:31,414 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-12 18:09:31,430 - WDM - INFO - There is no [win64] chromedriver "136.0.7103.92" for browser google-chrome "136.0.7103" in cache
+2025-05-12 18:09:31,430 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-12 18:09:31,479 - WDM - INFO - WebDriver version 136.0.7103.92 selected
+2025-05-12 18:09:31,482 - WDM - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/136.0.7103.92/win32/chromedriver-win32.zip
+2025-05-12 18:09:31,482 - WDM - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/136.0.7103.92/win32/chromedriver-win32.zip
+2025-05-12 18:09:31,881 - WDM - INFO - Driver downloading response is 200
+2025-05-12 18:09:33,014 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-12 18:09:33,126 - WDM - INFO - Driver has been saved in cache [C:\Users\Sebastián Jaque\.wdm\drivers\chromedriver\win64\136.0.7103.92]
+2025-05-12 18:09:33,127 - sunat_automation - INFO - ChromeDriver path: C:\Users\Sebastián Jaque\.wdm\drivers\chromedriver\win64\136.0.7103.92\chromedriver-win32/chromedriver.exe
+2025-05-12 18:09:33,127 - sunat_automation - INFO - Opciones de Chrome configuradas
+2025-05-12 18:09:33,128 - WDM - INFO - ====== WebDriver manager ======
+2025-05-12 18:09:33,638 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-12 18:09:33,655 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-12 18:09:33,669 - WDM - INFO - Driver [C:\Users\Sebastián Jaque\.wdm\drivers\chromedriver\win64\136.0.7103.92\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-12 18:09:34,696 - sunat_automation - INFO - WebDriver creado exitosamente
+2025-05-12 18:09:34,697 - gui - INFO - Iniciando sesión en SUNAT...
+2025-05-12 18:09:34,708 - sunat_automation - INFO - Iniciando proceso de login en SUNAT...
+2025-05-12 18:09:56,146 - sunat_automation - ERROR - Error: No se pudo verificar el login exitoso
+2025-05-12 18:09:58,240 - gui - ERROR - Error en procesamiento: Error en login de SUNAT
+2025-05-12 18:12:25,398 - gui - INFO - Starting invoice processing...
+2025-05-12 18:12:25,399 - gui - INFO - Using Excel file: C:/Users/Sebastián Jaque/Downloads/test/invoice_template_1.xlsx
+2025-05-12 18:12:25,400 - gui - INFO - Output directory: C:/Users/Sebastián Jaque/Downloads/test
+2025-05-12 18:12:25,401 - gui - INFO - Cargando archivo Excel...
+2025-05-12 18:12:25,413 - excel_reader - INFO - Successfully processed 1 invoices from C:/Users/Sebastián Jaque/Downloads/test/invoice_template_1.xlsx
+2025-05-12 18:12:25,414 - gui - INFO - Iniciando automatización SUNAT...
+2025-05-12 18:12:25,417 - sunat_automation - INFO - Iniciando configuración del WebDriver...
+2025-05-12 18:12:25,417 - WDM - INFO - ====== WebDriver manager ======
+2025-05-12 18:12:26,018 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-12 18:12:26,034 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-12 18:12:26,049 - WDM - INFO - Driver [C:\Users\Sebastián Jaque\.wdm\drivers\chromedriver\win64\136.0.7103.92\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-12 18:12:26,049 - sunat_automation - INFO - ChromeDriver path: C:\Users\Sebastián Jaque\.wdm\drivers\chromedriver\win64\136.0.7103.92\chromedriver-win32/chromedriver.exe
+2025-05-12 18:12:26,050 - sunat_automation - INFO - Opciones de Chrome configuradas
+2025-05-12 18:12:26,050 - WDM - INFO - ====== WebDriver manager ======
+2025-05-12 18:12:26,595 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-12 18:12:26,611 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-12 18:12:26,627 - WDM - INFO - Driver [C:\Users\Sebastián Jaque\.wdm\drivers\chromedriver\win64\136.0.7103.92\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-12 18:12:27,609 - sunat_automation - INFO - WebDriver creado exitosamente
+2025-05-12 18:12:27,610 - gui - INFO - Iniciando sesión en SUNAT...
+2025-05-12 18:12:27,615 - sunat_automation - INFO - Iniciando proceso de login en SUNAT...
+2025-05-12 18:12:45,814 - gui - INFO - Logs cleared
+2025-05-12 18:12:48,564 - sunat_automation - ERROR - Error: No se pudo verificar el login exitoso
+2025-05-12 18:12:50,590 - gui - ERROR - Error en procesamiento: Error en login de SUNAT
+2025-05-12 18:16:06,045 - gui - INFO - GUI initialized
+2025-05-12 18:21:48,720 - gui - INFO - GUI initialized
+2025-05-12 18:22:33,912 - gui - INFO - Starting invoice processing...
+2025-05-12 18:22:33,912 - gui - INFO - Using Excel file: C:/Users/Sebastián Jaque/Downloads/test/invoice_template_1.xlsx
+2025-05-12 18:22:33,912 - gui - INFO - Output directory: C:/Users/Sebastián Jaque/Downloads/test
+2025-05-12 18:22:33,913 - gui - INFO - Cargando archivo Excel...
+2025-05-12 18:22:34,050 - excel_reader - INFO - Successfully processed 1 invoices from C:/Users/Sebastián Jaque/Downloads/test/invoice_template_1.xlsx
+2025-05-12 18:22:34,050 - gui - INFO - Iniciando automatización SUNAT...
+2025-05-12 18:22:34,054 - sunat_automation - INFO - Iniciando configuración del WebDriver...
+2025-05-12 18:22:34,055 - WDM - INFO - ====== WebDriver manager ======
+2025-05-12 18:22:34,586 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-12 18:22:34,604 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-12 18:22:34,620 - WDM - INFO - Driver [C:\Users\Sebastián Jaque\.wdm\drivers\chromedriver\win64\136.0.7103.92\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-12 18:22:34,620 - sunat_automation - INFO - ChromeDriver path: C:\Users\Sebastián Jaque\.wdm\drivers\chromedriver\win64\136.0.7103.92\chromedriver-win32/chromedriver.exe
+2025-05-12 18:22:34,620 - sunat_automation - INFO - Opciones de Chrome configuradas
+2025-05-12 18:22:34,620 - WDM - INFO - ====== WebDriver manager ======
+2025-05-12 18:22:35,119 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-12 18:22:35,134 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-12 18:22:35,149 - WDM - INFO - Driver [C:\Users\Sebastián Jaque\.wdm\drivers\chromedriver\win64\136.0.7103.92\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-12 18:22:36,144 - sunat_automation - INFO - WebDriver creado exitosamente
+2025-05-12 18:22:36,144 - gui - INFO - Iniciando sesión en SUNAT...
+2025-05-12 18:22:36,147 - sunat_automation - INFO - Iniciando proceso de login en SUNAT...
+2025-05-12 18:22:55,469 - gui - INFO - Cancelación solicitada por el usuario...
+2025-05-12 18:22:58,017 - sunat_automation - ERROR - Error en navegación post-login: Message: 
+Stacktrace:
+	GetHandleVerifier [0x005DFC53+61635]
+	GetHandleVerifier [0x005DFC94+61700]
+	(No symbol) [0x004005D3]
+	(No symbol) [0x0044899E]
+	(No symbol) [0x00448D3B]
+	(No symbol) [0x00490E12]
+	(No symbol) [0x0046D2E4]
+	(No symbol) [0x0048E61B]
+	(No symbol) [0x0046D096]
+	(No symbol) [0x0043C840]
+	(No symbol) [0x0043D6A4]
+	GetHandleVerifier [0x00864573+2701795]
+	GetHandleVerifier [0x0085FCF6+2683238]
+	GetHandleVerifier [0x0087AA3E+2793134]
+	GetHandleVerifier [0x005F6915+155013]
+	GetHandleVerifier [0x005FCFFD+181357]
+	GetHandleVerifier [0x005E74A8+92440]
+	GetHandleVerifier [0x005E7650+92864]
+	GetHandleVerifier [0x005D2040+5296]
+	BaseThreadInitThunk [0x76075D49+25]
+	RtlInitializeExceptionChain [0x77C6B95B+107]
+	RtlGetAppContainerNamedObjectPath [0x77C6B8E1+561]
+
+2025-05-12 18:23:00,099 - gui - ERROR - Error en procesamiento: Error en login de SUNAT
+2025-05-12 18:42:20,348 - sunat_api - INFO - SunatAPI inicializado para RUC: 20123456789
+2025-05-12 18:42:20,348 - sunat_api - INFO - Usando aplicación: EMISOR_FACT_BOLE
+2025-05-12 18:44:29,425 - sunat_api - INFO - SunatAPI inicializado para RUC: 20123456789
+2025-05-12 18:44:29,425 - sunat_api - INFO - Usando aplicación: EMISOR_FACT_BOLE
+2025-05-12 18:44:29,481 - gui - INFO - GUI initialized
+2025-05-12 18:51:01,640 - sunat_api - INFO - SunatAPI inicializado para RUC: 20123456789
+2025-05-12 18:51:01,640 - sunat_api - INFO - Usando aplicación: EMISOR_FACT_BOLE
+2025-05-12 18:51:01,701 - gui - INFO - GUI initialized
+2025-05-12 18:54:52,547 - sunat_api - INFO - SunatAPI inicializado para RUC: 20123456789
+2025-05-12 18:54:52,547 - sunat_api - INFO - Usando aplicación: EMISOR_FACT_BOLE
+2025-05-12 18:54:52,547 - sunat_api - INFO - Probando conexión con SUNAT...
+2025-05-12 18:54:52,588 - sunat_api - ERROR - Error obteniendo token: {"status":401,"message":"Unauthorized"}
+
+2025-05-12 18:58:50,333 - sunat_api - INFO - SunatAPI inicializado para RUC: 20123456789
+2025-05-12 18:58:50,334 - sunat_api - INFO - Usando aplicación: EMISOR_FACT_BOLE
+2025-05-12 18:58:50,334 - sunat_api - INFO - Probando conexión con SUNAT...
+2025-05-12 18:58:50,490 - sunat_api - ERROR - Error obteniendo token: {"status":401,"message":"Unauthorized"}
+
+2025-05-12 18:59:32,513 - sunat_api - INFO - SunatAPI inicializado para RUC: 20123456789
+2025-05-12 18:59:32,513 - sunat_api - INFO - Usando aplicación: EMISOR_FACT_BOLE
+2025-05-12 18:59:32,513 - sunat_api - INFO - Probando conexión con SUNAT...
+2025-05-12 18:59:32,669 - sunat_api - ERROR - Error obteniendo token: {"status":401,"message":"Unauthorized"}
+
+2025-05-12 19:03:15,637 - sunat_api - INFO - SunatAPI inicializado para RUC: 10413191918
+2025-05-12 19:03:15,638 - sunat_api - INFO - Usando aplicación: EMISOR_FACT_BOLE
+2025-05-12 19:03:15,638 - sunat_api - INFO - Probando conexión con SUNAT...
+2025-05-12 19:03:15,798 - sunat_api - ERROR - Error obteniendo token: {"status":401,"message":"Unauthorized"}
+
+2025-05-12 19:11:56,364 - sunat_api - INFO - SunatAPI inicializado para RUC: 10413191918
+2025-05-12 19:11:56,365 - sunat_api - INFO - Usando aplicación: EMISOR_FACT_BOLE
+2025-05-12 19:11:56,365 - sunat_api - INFO - Probando conexión con SUNAT...
+2025-05-12 19:11:56,407 - sunat_api - ERROR - Error obteniendo token: {"status":401,"message":"Unauthorized"}
+
+2025-05-13 11:13:03,543 - sunat_api - INFO - SunatAPI inicializado para RUC: 10413191918
+2025-05-13 11:13:03,543 - sunat_api - INFO - Usando aplicación: EMISOR_FACT_BOLE
+2025-05-13 11:13:03,684 - gui - INFO - GUI initialized
+2025-05-13 11:14:53,082 - sunat_api - INFO - SunatAPI inicializado para RUC: 20384391118
+2025-05-13 11:14:53,082 - sunat_api - INFO - Usando aplicación: EMISOR_FACT_BOLE
+2025-05-13 11:14:53,143 - gui - INFO - GUI initialized
+2025-05-13 15:43:08,641 - sunat_api - INFO - SunatAPI inicializado para RUC: 20384391118
+2025-05-13 15:43:08,701 - gui - INFO - GUI initialized
+2025-05-14 14:12:25,189 - sunat_api - INFO - SunatAPI inicializado para RUC: 20384391118
+2025-05-14 14:12:25,285 - gui - INFO - GUI initialized
+2025-05-14 14:16:39,948 - sunat_api - INFO - SunatAPI inicializado para RUC: 20384391118
+2025-05-14 14:16:40,054 - gui - INFO - GUI initialized
