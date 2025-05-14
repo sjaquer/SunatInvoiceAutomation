@@ -1,7 +1,7 @@
-# 🌊 Zeus Maritime - Facturación SUNAT Automation
+# 🚀 ZEFAC - Facturación SUNAT Automation
 
 ## 📋 Descripción
-> Automatización del proceso de facturación electrónica para Zeus Maritime con integración directa a SUNAT.
+> Sistema de automatización para facturación electrónica SUNAT desarrollado por SJAQUER, optimizado para empresas de exportación marítima.
 
 ## 🛠️ Características Principales
 ### `🔷 Gestión de Facturas`
@@ -95,10 +95,14 @@ SUNAT_CLIENT_SECRET=your_client_secret
    - Credenciales seguras
    - Respaldo de CDRs
 
-## 🤝 Soporte
-Para soporte técnico:
-- 📧 Email: soporte@zeusmaritime.com
-- 💬 Teams: IT Support Channel
+## 🤝 Soporte y Desarrollo
+Para soporte técnico o consultas:
+- 📧 Email: sjaquer@outlook.es
+- 💻 GitHub: @sjaquer
 
-## 📄 Licencia
-Propietario - Zeus Maritime
+## 📄 Licencia y Autoría
+Copyright © 2025 SJAQUER
+Todos los derechos reservados.
+
+---
+*Desarrollado con ❤️ por SJAQUER*
